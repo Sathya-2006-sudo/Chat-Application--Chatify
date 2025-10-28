@@ -1,5 +1,5 @@
 # Chat-Application--Chatify
-  A real-time chat application enables instant messaging between users across devices. It supports features like live text exchange, typing indicators, message status (sent, delivered, read), user presence, and multimedia sharing. Ideal for customer support, team collaboration, or social interaction.
+A real-time chat application enables instant messaging between users across devices. It supports features like live text exchange, typing indicators, message status (sent, delivered, read), user presence, and multimedia sharing. Ideal for customer support, team collaboration, or social interaction.
 # Features
   Real-time messaging using WebSockets
   User authentication and session management
@@ -8,10 +8,10 @@
   Online/offline user presence tracking
   Chat history and persistent storage
   Responsive design for mobile and desktop
-#Tech Stack
+# Tech Stack
   Frontend: React.js / Vue.js / Angular
   Backend: Node.js with Express / Django / Flask
-#Usage
+# Usage
   Register or log in.
   Start chatting with online users.
   Share files, images, and emojis.
