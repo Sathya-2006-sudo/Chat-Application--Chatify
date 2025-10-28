@@ -16,3 +16,5 @@ A real-time chat application enables instant messaging between users across devi
   Start chatting with online users.
   Share files, images, and emojis.
   View message status and history.
+# Image
+![1](https://github.com/user-attachments/assets/c470f6df-9938-433f-b0fb-c9a1c5cacc95)
