@@ -9,8 +9,8 @@ A real-time chat application enables instant messaging between users across devi
   Chat history and persistent storage
   Responsive design for mobile and desktop
 # Tech Stack
-  Frontend: React.js / Vue.js / Angular
-  Backend: Node.js with Express / Django / Flask
+  Frontend: Scrip.js / Vue.js / Angular
+  Backend: Node.js with Express / javascript / Html / CSS
 # Usage
   Register or log in.
   Start chatting with online users.
