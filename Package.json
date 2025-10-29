@@ -1,5 +1,5 @@
 {
-  "name": "whatsapp-clone",
+  "name": "Chatify",
   "version": "1.0.0",
   "description": "WhatsApp-like real-time chat application",
   "main": "server.js",
@@ -16,4 +16,5 @@
   "devDependencies": {
     "nodemon": "^3.0.1"
   }
+
 }
