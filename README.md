@@ -29,3 +29,5 @@ A WhatsApp/Messenger-like real-time chat application built with Node.js, Express
    ```bash
    mkdir chatify
    cd chatify
+   npm install
+   npm start
